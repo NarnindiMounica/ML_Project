@@ -1,5 +1,6 @@
 numpy 
 pandas
 seaborn
-sklearn
+scikit-learn
+dill
 -e .
